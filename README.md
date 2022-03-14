@@ -117,5 +117,7 @@ const Bank = new Schema(
 ## Hosted on Heroku
 
 Heroku set up instruction: https://devcenter.heroku.com/articles/heroku-cli
-example below:
+
+App link example below:
+
 https://powerful-mesa-04468.herokuapp.com/banks

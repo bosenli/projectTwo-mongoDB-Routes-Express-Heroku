@@ -114,7 +114,8 @@ const Bank = new Schema(
   {timestamps: true}
 )
 ```
-Hosted on Heroku
+## Hosted on Heroku
+
 Heroku set up instruction: https://devcenter.heroku.com/articles/heroku-cli
 example below:
 https://powerful-mesa-04468.herokuapp.com/banks

@@ -117,6 +117,8 @@ const Bank = new Schema(
 ## Hosted on Heroku
 
 Heroku set up instruction: https://devcenter.heroku.com/articles/heroku-cli
+Need MongoDB atlas as well: 
+https://www.mongodb.com/developer/how-to/use-atlas-on-heroku/
 
 App link example below:
 
